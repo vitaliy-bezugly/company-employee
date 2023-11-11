@@ -1,0 +1,19 @@
+# General
+.DS_Store
+.idea/
+.packages
+.pub-cache/
+.pub/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Flutter specific
+ios/Flutter/flutter_export_environment.sh
+android/.gradle
+android/app/build/
+
+# Environment variables
+.env
